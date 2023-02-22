@@ -2,6 +2,7 @@
   "name": "express-mongoose-rest",
   "version": "1.0.0",
   "description": "Simple Solid Scalable base of code to create RESTful APIs using Node.js + Express.js and MongoDB (Mongoose ODM).",
+  "public": false,
   "main": "app.js",
   "scripts": {
     "start": "nodemon",
